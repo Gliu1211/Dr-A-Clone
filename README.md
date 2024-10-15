@@ -1,8 +1,6 @@
 # Dr-A-Clone
 
 
-Here’s a sample `README.md` for your project:
-
 ---
 
 # Fine-Tuning LLaMA 3.2 for Dr. Patricia A. Alexander's Writing Style
