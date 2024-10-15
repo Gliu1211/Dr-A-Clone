@@ -69,11 +69,10 @@ Our aim is to construct a fine-tuning dataset containing **10,000 unique sentenc
 
 ## Challenges
 
-- **PDF Conversion**: Many academic papers are only available in PDF format, which presents challenges in text extraction and data consistency.
-- **Data Cleaning**: Ensuring that extracted text is correctly cleaned and standardized before fine-tuning.
+- **PDF Conversion**: Many academic papers are only available in PDF format, which presents challenges in text extraction and data consistency. 
+- **Data Cleaning**: Ensuring that extracted text is correctly cleaned and standardized before fine-tuning. We needed to cut off some parts of papers due to the reference pages. Figures also presented a challenge because of its distinct format. 
 - **Sentence Tokenization**: Properly splitting long academic texts into meaningful sentences for better model training.
-- **Fine tuning**:
-- 
+
 ---
 
 The notebook contains several important functions and scripts that are directly relevant to the data extraction and processing aspects of your project. Here’s how these parts can be integrated into the README to provide more clarity on the dataset construction:
